@@ -5,7 +5,7 @@
 ##### Aplicação desenvolvida durante o evento Next Level Week 3 da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 <br>
 
-Aplicação desenvolvida com a visão de facilitar a localização para visitas aos acolhimentos institucionais de crianças(orfanatos) de sua cidade.
+Aplicação foi desenvolvida com a visão de facilitar a localização para visitas aos acolhimentos institucionais de crianças(orfanatos) de sua cidade.
 <br>
 
 ### Projeto desenvolvido com:
