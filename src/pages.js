@@ -9,7 +9,7 @@ module.exports = {
         try {
             const db = await Database
             const orphanages = await db.all(`SELECT * FROM orphanages;`)
-            console.log(orphanages)
+            
             return response.render('orphanages', { orphanages })
         } catch (error) {
             console.log('Database ERROR!', error)
