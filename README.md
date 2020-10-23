@@ -18,15 +18,19 @@ Aplicação desenvolvida com a visão de facilitar a localização para visitas 
 $ git clone "https://github.com/WebertonMendes/NextLevelWeek3.git"
 ```
 
-**2º Passo:** Executar a instalação dos pacotes e iniciar a aplicação:
+**2º Passo:** Executar a instalação dos pacotes e dependencias:
 ```sh
 $ npm install
-$ npm start
 ```
 
 **3º Passo:** Executar o script SQL para criação da tabela no Sqlite:
 ```sh
 $ node src/database/db.js
+```
+
+**4º Passo:** Inicializar a aplicação:
+```sh
+$ npm start
 ```
 <br>
 
